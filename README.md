@@ -1,4 +1,4 @@
-##tencent ad 2018 lookalike
+## tencent ad 2018 lookalike
 
 不同于bryan大佬的[baseline], 在做完 [OneHotEncoder] 和 [CountVectorizer] 之后，feature会转变成稀疏特征，维度非常大，训练时间也会非常的长。
 
